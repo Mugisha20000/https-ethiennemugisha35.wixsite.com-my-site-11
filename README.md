@@ -5,7 +5,7 @@
 | Item          | Details                                    |
 | ------------- | ------------------------------------------ |
 | Student Name  | Mugisha Ethienne                           |
-| Student ID    |    24174/2024                        |
+| Student ID    | 24174/2024                                 |
 | Course        | E-Commerce And Web Application (EWA408510) |
 | Institution   | UNILAK                                     |
 | Academic Year | 2025-2026                                  |
@@ -23,24 +23,29 @@
 
 # Project Overview
 
-Welcome to **MUGISHA Restaurant**, a premier Italian dining destination located in Kigali, Rwanda. This website was developed using a No-Code platform to provide customers with an easy and convenient way to explore our menu, learn about our restaurant, contact us, and place food orders online.
+Welcome to **MUGISHA Restaurant**, a premier Italian dining destination located in Kigali, Rwanda.
 
-The website combines modern design, user-friendly navigation, and restaurant e-commerce functionality to deliver an excellent customer experience.
+This website was developed using **Wix**, a No-Code website development platform, to provide customers with a modern and convenient online restaurant experience.
+
+Customers can browse menu items, view product details and prices, learn about the restaurant, contact the business, and interact with the shopping cart system.
+
+The website is designed with a responsive layout, attractive user interface, and simple navigation to enhance customer satisfaction.
 
 ---
 
 # Platform Used
 
-This project was developed using **Wix**, a No-Code website development platform.
+## Wix Website Builder
 
-### Reasons for Choosing Wix
+This project was developed using Wix because it offers:
 
-* Easy drag-and-drop interface
+* Easy drag-and-drop website design
 * Professional website templates
-* Mobile responsive design
-* Integrated e-commerce tools
+* Mobile responsive layouts
+* Integrated e-commerce functionality
 * Secure hosting and deployment
-* Easy content management
+* User-friendly content management
+* Fast website publishing
 
 ---
 
@@ -48,14 +53,15 @@ This project was developed using **Wix**, a No-Code website development platform
 
 ## Homepage
 
-The homepage contains:
+The Homepage contains:
 
-* Restaurant name and logo
+* Restaurant logo
+* Restaurant name
 * Welcome message
-* Featured dishes
 * Navigation menu
+* Featured food items
 * Call-to-action buttons
-* Restaurant highlights
+* Professional visual design
 
 ### Welcome Message
 
@@ -65,12 +71,12 @@ The homepage contains:
 
 ## Product/Menu Page
 
-The menu page displays restaurant products with:
+The Product/Menu Page includes:
 
 * Product images
 * Product names
-* Product descriptions
 * Product prices
+* Product descriptions
 * Add-to-cart functionality
 
 ### Available Menu Items
@@ -127,8 +133,8 @@ To become the leading Italian restaurant in Rwanda by delivering exceptional foo
 The Contact Page includes:
 
 * Contact form
-* Phone number
 * Email address
+* Phone number
 * Restaurant location
 
 ### Contact Information
@@ -150,18 +156,20 @@ The website includes a shopping cart system that allows customers to:
 * Add menu items to cart
 * View selected items
 * Update quantities
-* Remove products
+* Remove products from cart
 * Simulate checkout process
 
 ---
 
 # Website Pages
 
-* Home
-* Menu / Products
-* About Us
-* Contact Us
-* Shopping Cart
+The website contains the following pages:
+
+* Home Page
+* Product/Menu Page
+* About Us Page
+* Contact Page
+* Shopping Cart Page
 
 ---
 
@@ -169,19 +177,31 @@ The website includes a shopping cart system that allows customers to:
 
 ## Homepage
 
-![Homepage Screenshot](images/homepage.png)
+[![Homepage Screenshot](images/1.png)](images/1.png)
 
 ---
 
 ## Product/Menu Page
 
-![Menu Screenshot](images/product-page.png)
+[![Product Menu Screenshot](images/2.png)](images/2.png)
 
 ---
 
-## Contact/Cart Page
+## Shopping Cart Page
 
-![Contact Screenshot](images/contact-page.png)
+[![Shopping Cart Screenshot](images/3.png)](images/3.png)
+
+---
+
+## Contact Page
+
+[![Contact Page Screenshot](images/4.png)](images/4.png)
+
+---
+
+## About Us Page
+
+[![About Us Screenshot](images/AboutUs5.png)](images/AboutUs5.png)
 
 ---
 
@@ -190,11 +210,12 @@ The website includes a shopping cart system that allows customers to:
 During the development of this project, the following challenges were encountered:
 
 * Designing a professional restaurant website layout
-* Organizing menu products effectively
+* Organizing products and menu information
 * Customizing Wix templates
-* Creating responsive navigation
-* Integrating cart functionality
 * Managing website content and images
+* Creating responsive navigation menus
+* Implementing shopping cart functionality
+* Ensuring mobile responsiveness
 
 ---
 
@@ -202,29 +223,30 @@ During the development of this project, the following challenges were encountere
 
 Through this project, I learned:
 
-* No-Code website development
-* E-commerce website design
-* User Interface (UI) design principles
-* User Experience (UX) improvement techniques
+* No-Code website development using Wix
+* E-commerce website design principles
+* User Interface (UI) design
+* User Experience (UX) optimization
 * Website content management
-* GitHub documentation using Markdown
+* GitHub repository management
+* Markdown documentation
 * Online business presentation
 
 ---
 
 # Live Website Link
 
-Add your live Wix website link here:
+🔗 **Visit MUGISHA Restaurant Website**
 
-[https://your-website-link.com](https://ethiennemugisha35-my-site-11.editor.wix.com/html/editor/web/renderer/edit/d4490a9b-0808-4d6d-b6d5-936b8b2d299e?metaSiteId=b51a14fc-e0c0-4757-9603-8f32e9aeb62e&editorSessionId=9a9d16d1-68f6-4076-b5aa-1957e5c67e67)
+https://ethiennemugisha35.wixsite.com/my-site-11
 
 ---
 
 # GitHub Repository Link
 
-Add your GitHub repository link here:
+🔗 **View Project Repository**
 
-[https://github.com/yourusername/mugisha-restaurant](https://github.com/Mugisha20000/https-ethiennemugisha35.wixsite.com-my-site-11)
+https://github.com/Mugisha20000/https-ethiennemugisha35.wixsite.com-my-site-11
 
 ---
 
@@ -236,16 +258,46 @@ mugisha-restaurant/
 ├── README.md
 │
 └── images/
-    ├── homepage.png
-    ├── product-page.png
-    └── contact-page.png
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
+    ├── 4.png
+    └── AboutUs5.png
 ```
+
+---
+
+# Project Objectives Achieved
+
+✅ Homepage created
+
+✅ Product/Menu page created
+
+✅ About page created
+
+✅ Contact page created
+
+✅ Shopping cart functionality implemented
+
+✅ Product images added
+
+✅ Responsive design achieved
+
+✅ GitHub repository created
+
+✅ Markdown documentation completed
+
+✅ Screenshots included
 
 ---
 
 # Conclusion
 
-The MUGISHA Restaurant website successfully demonstrates the use of a No-Code platform to build a modern e-commerce restaurant website. The project includes all required pages, menu products, contact information, shopping cart functionality, and GitHub documentation. The website provides customers with an engaging and convenient way to explore Italian cuisine and interact with the restaurant online.
+The MUGISHA Restaurant project successfully demonstrates the use of a No-Code platform to build a professional restaurant e-commerce website.
+
+The website provides customers with an engaging platform to explore menu items, learn about the restaurant, contact the business, and interact with the shopping cart system.
+
+This project strengthened my skills in website design, e-commerce development, GitHub documentation, and digital business presentation.
 
 ---
 
