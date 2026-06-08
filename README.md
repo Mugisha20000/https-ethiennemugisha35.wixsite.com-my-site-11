@@ -152,7 +152,7 @@ The Contact Page includes:
 
 ## Homepage
 
-1.png
+[![Product Menu Screenshot](images/1.png)
 
 ---
 
@@ -170,7 +170,7 @@ The Contact Page includes:
 
 ## Contact Page
 
-[![Contact Page Screenshot](images/4.png)](images/4.png)
+[![Contact Page Screenshot](images/2.png)
 
 ---
 
