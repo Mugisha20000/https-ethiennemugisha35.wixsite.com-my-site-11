@@ -148,6 +148,35 @@ The Contact Page includes:
 **Location:** Kigali, Rwanda
 
 ---
+# Screenshots
+
+## Homepage
+
+[![Homepage Screenshot](images/1.png)](images/1.png)
+
+---
+
+## Product/Menu Page
+
+[![Product Menu Screenshot](images/2.png)](images/2.png)
+
+---
+
+## Shopping Cart Page
+
+[![Shopping Cart Screenshot](images/3.png)](images/3.png)
+
+---
+
+## Contact Page
+
+[![Contact Page Screenshot](images/4.png)](images/4.png)
+
+---
+
+## About Us Page
+
+[![About Us Screenshot](images/AboutUs5.png)](images/AboutUs5.png)
 
 ## Shopping Cart Functionality
 
