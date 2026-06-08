@@ -152,7 +152,7 @@ The Contact Page includes:
 
 ## Homepage
 
-[![Homepage Screenshot](images/1.png)](images/1.png)
+[![Homepage Screenshot](images/1.png)]
 
 ---
 
